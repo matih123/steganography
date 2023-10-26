@@ -1,0 +1,2 @@
+# steganography
+Steganografia projekt
